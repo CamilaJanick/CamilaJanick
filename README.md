@@ -1,4 +1,4 @@
-<h2 align="center">Camila Janick</h2>
+<h2 align="center">Hi✨! I love studying new programming languages and using them to solve problems.</h2>
 
 <div style="display: inline_block;" align="center">
   <a href="https://github.com/camilajanick">
@@ -15,6 +15,7 @@
   <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
   
