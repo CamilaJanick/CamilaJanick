@@ -24,3 +24,6 @@
   <a href="https://www.linkedin.com/in/camilajanick/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
   <a href="mailto:camilajanick14@gmail.com"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg"></a>
 </div>
+<div align="center">
+   ![Snake animation](https://github.com/CamilaJanick/CamilaJanick/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+</div>
