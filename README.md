@@ -1,4 +1,6 @@
-<h2 align="center">Hi✨ I love studying new programming languages and using them to solve problems.</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<h2 align="center">Howdy✨ I love studying new programming languages and using them to solve problems.</h2>
 
 <div style="display: inline_block;" align="center">
   <a href="https://github.com/camilajanick">
